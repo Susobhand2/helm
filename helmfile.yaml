@@ -1,0 +1,9 @@
+---
+releases:
+
+  - name: springboot
+    chart: ./springboot
+    installed: true 
+  - name: demochart
+    chart: ./kubechart/demochart
+    installed: true
